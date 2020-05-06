@@ -7,8 +7,6 @@ const { argvCheckButRequire, HelpText, Downloader, getFileNameFromLink } = requi
  * ---Some Args--
  * --help
  * --link (require)
- * --filename (optional)
- * --downloadlocation (optional)
  */
 
 var link = argv.link

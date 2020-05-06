@@ -1,0 +1,33 @@
+{
+  "name": "pixis",
+  "version": "First Pixel",
+  "description": "Advanced File Downloader",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreXLin85/Pixis.git"
+  },
+  "keywords": [
+    "pixis",
+    "advanced",
+    "file",
+    "download"
+  ],
+  "author": "GreXLin85",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GreXLin85/Pixis/issues"
+  },
+  "homepage": "https://github.com/GreXLin85/Pixis#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "progress": "^2.0.3",
+    "readline-sync": "^1.4.10",
+    "request": "^2.88.2",
+    "request-progress": "^3.0.0",
+    "yargs": "^15.3.1"
+  }
+}

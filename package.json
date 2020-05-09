@@ -2,9 +2,9 @@
   "name": "pixis",
   "version": "2.0.0",
   "description": "Advanced File Downloader",
-  "main": "main.js",
+  "main": "pixis.js",
   "scripts": {
-    "start": "node main.js"
+    "start": "node pixis.js"
   },
   "repository": {
     "type": "git",
